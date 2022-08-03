@@ -1,0 +1,22 @@
+{
+  "name": "academiamarkowicz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass --include-path sass ./sass/index.scss ./css/index.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucasMarkowicz/Academia-Markowicz-pf2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LucasMarkowicz/Academia-Markowicz-pf2/issues"
+  },
+  "homepage": "https://github.com/LucasMarkowicz/Academia-Markowicz-pf2#readme",
+  "devDependencies": {
+    "node-sass": "^7.0.1"
+  }
+}
